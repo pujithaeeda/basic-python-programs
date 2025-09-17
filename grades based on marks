@@ -1,0 +1,11 @@
+marks=int(input("enter your marks:"))
+if(marks>90):
+  print("grade A EXCELLENT")
+elif(80<marks<90):
+  print("grade B VERY GOOD")
+elif(70<marks<80):
+  print("grade C GOOD")
+elif(50<marks<70):
+  print("grade D NOT BAD")
+else:
+  print("FAIL")
