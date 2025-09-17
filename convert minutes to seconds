@@ -1,0 +1,3 @@
+a=int(input("enter number of minutes:"))
+seconds=a*60
+print("seconds are ",seconds)
